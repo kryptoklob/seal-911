@@ -19,6 +19,7 @@ Given the high trust required for this project to function, membership is availa
 
 For the sake of transparency, the current list of members is provided below.
 
+- klob (Segfault Security Solutions, LLC)
 - 0xc0ffeebabe (Independent)
 - pcaversaccio (Independent)
 - Josh (Cryptoforensic Investigators)
